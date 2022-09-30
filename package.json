@@ -3,8 +3,10 @@
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1",
     "node-sass": "^7.0.3",
-    "react-bootstrap": "^2.5.0"
+    "react-bootstrap": "^2.5.0",
+    "react-icons": "^4.4.0"
   },
   "devDependencies": {
     "react-router-dom": "^6.4.1"
